@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245679815259",
+    "project_id": "mapd721-p1",
+    "storage_bucket": "mapd721-p1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245679815259:android:95e165d9437ec0486d9d7e",
+        "android_client_info": {
+          "package_name": "com.redamehali.mapd721.p1.mapd721_p1_redamehali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245679815259-64jutvidrsrsde7bsneg4l4b19bep6ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRWmgKzyYTZeXBeFtUi7JT-3wy4wZb9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245679815259-64jutvidrsrsde7bsneg4l4b19bep6ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
