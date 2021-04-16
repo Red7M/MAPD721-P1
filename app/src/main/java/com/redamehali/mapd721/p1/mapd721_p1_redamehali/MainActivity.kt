@@ -49,6 +49,8 @@ class MainActivity : AppCompatActivity() {
                 // Successfully signed in
                 val user = FirebaseAuth.getInstance().currentUser
                 // Launch Home screen
+                val intent = Intent(this, MapsActivity::class.java)
+                startActivity(intent)
             } else {
                 // Sign in failed.
             }
